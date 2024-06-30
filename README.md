@@ -11,7 +11,7 @@ A brief description of what this project does
 ![App Screenshot](https://github.com/ISRAFIL-HOSSAIN/AllProjectShowcase/blob/main/shadcn_Admin.png?raw=true)
 ## Demo Dashbaord
 
-https://admin-demo-shadcn.vercel.app/
+https://components-shadcn.vercel.app/
 
 
 ## Tech Stack
